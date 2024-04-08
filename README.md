@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedjemai08
 - 👀 I’m interested in DevOps, DevSecOps, Blockchain, Cybersecurity, Software engineering.
 - 🌱 I’m currently learning GO and Hyperledger Fabric.
-- 📫 How to reach me ahmed.jemaii@etudiant-enit.utm.tn 
+- 📫 How to reach me ahmed.jemaii@etudiant-enit.utm.tn / ahmed.jemai0207@gmail.com
 
 <!---
 ahmedjemai08/ahmedjemai08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
